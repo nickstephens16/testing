@@ -1,0 +1,34 @@
+.navbar {
+    width: 100%;
+    border: 5px;
+    border-color: black;
+    text-align: center;
+    padding-bottom: 4em;
+}
+
+h1{
+    text-align: center;
+    border: dotted;
+    background-color: lightgray;
+}
+
+h2{
+    border: solid;
+    text-align: center;
+    background-color: lightgray;
+
+}
+
+table{
+    background-color: lightgray;
+}
+
+body {
+    background-color: lightcyan;
+}
+
+.button {
+    text-align: center;
+}
+
+
